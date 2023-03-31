@@ -1,2 +1,2 @@
 # Trainings-and-Projects
-This repository contains several AI related mini projects
+This repository contains some AI related mini projects
