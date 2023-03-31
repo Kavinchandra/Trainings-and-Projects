@@ -28,4 +28,4 @@ Write your training procedure and divide your dataset into train/test/validation
 Write a script to interact with your network at the command line.
 
 # Face Generation => GAN:
-This is the second project and here, you'll build a custom generative adversarial network to generate new images of faces.
+This is the second project and here you'll build a custom generative adversarial network to generate new images of faces.
