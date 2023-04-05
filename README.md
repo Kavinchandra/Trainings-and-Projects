@@ -36,7 +36,7 @@ If no location metadata for an image is available, one way to infer the location
 In this project, you will take the first steps towards addressing this problem by building models to automatically predict the location of the image based on any landmarks depicted in the image. You will go through the machine learning design process end-to-end: performing data preprocessing, designing and training CNNs, comparing the accuracy of different CNNs, and deploying an app based on the best CNN you trained.
 
 # 3. Face Generation => GAN:
-This is the second project and here you'll build a custom generative adversarial network to generate new images of faces.
+This is the third project and here you'll build a custom generative adversarial network to generate new images of faces.
 
 Open the notebook file, dlnd_face_generation_starter.ipynb and follow the instructions. This project is organized as follows:
 
